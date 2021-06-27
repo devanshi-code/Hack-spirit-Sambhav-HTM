@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/8b1db2b658fe879eacedc7f9cd7f1f8f/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/8b1db2b658fe879eacedc7f9cd7f1f8f/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/8b1db2b658fe879eacedc7f9cd7f1f8f/jetified-play-services-auth-16.0.1/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

@@ -1,0 +1,27 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.babariviere.sms" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+5-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.READ_SMS" />
+7-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml:3:5-66
+7-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml:3:22-64
+8    <uses-permission android:name="android.permission.SEND_SMS" />
+8-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml:4:5-66
+8-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml:4:22-64
+9    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+9-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml:5:5-69
+9-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml:5:22-67
+10    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+10-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml:6:5-74
+10-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml:6:22-72
+11    <uses-permission android:name="android.permission.READ_CONTACTS" />
+11-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml:7:5-72
+11-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml:7:22-69
+12    <uses-permission android:name="android.permission.READ_PROFILE" />
+12-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml:8:5-71
+12-->/Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sms_maintained-0.2.5/android/src/main/AndroidManifest.xml:8:22-68
+13
+14</manifest>

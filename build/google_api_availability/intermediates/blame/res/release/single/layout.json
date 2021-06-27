@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_api_availability/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/d952999fa53debbcba515b1c26a9d0c0/core-1.2.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_api_availability/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/d952999fa53debbcba515b1c26a9d0c0/core-1.2.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_api_availability/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/d952999fa53debbcba515b1c26a9d0c0/core-1.2.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_api_availability/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/d952999fa53debbcba515b1c26a9d0c0/core-1.2.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_api_availability/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/d952999fa53debbcba515b1c26a9d0c0/core-1.2.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_api_availability/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/d952999fa53debbcba515b1c26a9d0c0/core-1.2.0/res/layout/notification_template_part_time.xml"
+    }
+]

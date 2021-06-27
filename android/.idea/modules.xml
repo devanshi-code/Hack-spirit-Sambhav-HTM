@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-84037955/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-84037955/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1392187169/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/1392187169/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1595661891/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1595661891/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2050496625/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/2050496625/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-543714941/android.geolocator.iml" filepath="$PROJECT_DIR$/.idea/modules/-543714941/android.geolocator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1562523635/android.google_api_availability.iml" filepath="$PROJECT_DIR$/.idea/modules/-1562523635/android.google_api_availability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/54382192/android.google_maps_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/54382192/android.google_maps_flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1342489125/android.google_sign_in.iml" filepath="$PROJECT_DIR$/.idea/modules/-1342489125/android.google_sign_in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1284968016/android.location_permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/1284968016/android.location_permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1144387452/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-1144387452/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/251432641/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/251432641/android.shared_preferences.iml" />
+    </modules>
+  </component>
+</project>

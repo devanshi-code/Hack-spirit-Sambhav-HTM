@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/fluttercontactpicker/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/cd2306d09bcf7af840551cf55ebfcf4c/core-1.1.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/fluttercontactpicker/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/cd2306d09bcf7af840551cf55ebfcf4c/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/fluttercontactpicker/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/cd2306d09bcf7af840551cf55ebfcf4c/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/fluttercontactpicker/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/cd2306d09bcf7af840551cf55ebfcf4c/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/fluttercontactpicker/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/cd2306d09bcf7af840551cf55ebfcf4c/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    }
+]

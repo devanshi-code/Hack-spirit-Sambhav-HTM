@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_api_availability/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/6ba0c463f2725df467d5dfa61f4acc17/play-services-base-17.2.1/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_api_availability/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/6ba0c463f2725df467d5dfa61f4acc17/play-services-base-17.2.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_api_availability/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/6ba0c463f2725df467d5dfa61f4acc17/play-services-base-17.2.1/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml
+		ADDED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml:1:1-4:12
+		INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml
+INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml
+		ADDED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhinavrai/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/alan_voice-2.0.7/android/src/main/AndroidManifest.xml

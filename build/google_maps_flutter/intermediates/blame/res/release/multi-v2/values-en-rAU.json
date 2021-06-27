@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/cd2306d09bcf7af840551cf55ebfcf4c/core-1.1.0/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/cd2306d09bcf7af840551cf55ebfcf4c/core-1.1.0/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

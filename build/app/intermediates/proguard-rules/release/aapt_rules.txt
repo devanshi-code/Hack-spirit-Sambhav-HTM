@@ -1,0 +1,31 @@
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:37
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:46
+-keep class com.example.chatApp.MainActivity { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:124
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:115
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:180
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:202
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:192
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:198
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:169
+-keep class com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:132
+-keep class com.google.firebase.auth.internal.GenericIdpActivity { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:150
+-keep class com.google.firebase.auth.internal.RecaptchaActivity { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:88
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:185
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /Users/abhinavrai/Documents/GitHub/women_security_app/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:37
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a590ee1faa2fabd3bcb9cc3e62c12a66/browser-1.0.0/res/layout/browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+

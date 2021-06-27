@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.14.1+2/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.18.1+1/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.0/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.3.2+2/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.4/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.33/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.5.4/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-3.0.0+1/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.18/android" />
+            <option value="$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.12/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

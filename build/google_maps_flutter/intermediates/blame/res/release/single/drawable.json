@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/cd2306d09bcf7af840551cf55ebfcf4c/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/cd2306d09bcf7af840551cf55ebfcf4c/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/cd2306d09bcf7af840551cf55ebfcf4c/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/cd2306d09bcf7af840551cf55ebfcf4c/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/abhinavrai/Documents/GitHub/women_security_app/build/google_maps_flutter/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/abhinavrai/.gradle/caches/transforms-2/files-2.1/a8e53ec7b9d903bdc6253967a38b536d/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    }
+]
