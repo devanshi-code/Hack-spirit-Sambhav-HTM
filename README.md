@@ -12,7 +12,7 @@
 An Android App used for Women Safety in which SOS will be sent to emergency contacts and in case of threatening situation user can use voice assistant.
 <br>
 
-### 📱APP SCREENSHOTS:
+
 
 ### 👩‍💻 TECHNOLOGIES USED:
   * DART
